@@ -1,6 +1,6 @@
 game.Players.PlayerAdded:Connect(function(Player)
 	Player.CharacterAdded:Connect(function(Character)
-		if Player.UserId == 786 or 1264361333 or 188910633 or 1681950129 then
+		if Player.UserId == 5487755034 or 1264361333 or 188910633 or 1681950129 then
 			Player:Kick("bú liếm con mẹ mày mẹ mày là đĩ óc chó khi bị t đụ cả ngày lồn mẹ mày chảy tinh trùng tao")
 		end
 	end)
